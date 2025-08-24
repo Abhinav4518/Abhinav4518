@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Abhinav Kumar Jha.
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Backend and Python.
-- 💞️ I’m looking to collaborate on FrontEnd Development.
-- 📫 How to reach me? Feel free to email me on abhinavjha542@gmail.com
-- 😄 Pronouns: He/Him.
-  
+🧠 My Machine Learning Journey
+
+Welcome to my machine learning journey repository! This space is a collection of all my projects, notebooks, and code as I explore the exciting world of machine learning.
+
+Here you'll find a variety of projects, from foundational concepts to more complex applications, all documented to reflect my learning process.
 
 <!---
 Abhinav4518/Abhinav4518 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
