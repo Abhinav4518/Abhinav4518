@@ -18,16 +18,15 @@
 
 ---
 
-### 🐱 My GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Abhinav4518&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-  </a>
-</div>
+### 🚀 About Me
+- 🔭 I’m currently working on **OmniCode (Cloud Compiler)**
+- 🌱 I’m currently learning **Advanced Graph Algorithms & System Design**
+- 🎓 I’m a **3rd Year CSE Undergraduate** at **IIIT Manipur**
+- ⚡ Fun fact: **I can center a div (sometimes)**
 
 ---
 
-### 🔥 GitHub Stats & Streaks
+### 🔥 Stats & Activity
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav4518&theme=tokyonight&hide_border=true" alt="Abhinav's Streak" />
   <br/>
@@ -35,10 +34,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav4518&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav4518&bg_color=1a1b27&color=70a5fd&line=38bdae&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
 ---
 
 ### 🛠️ Tech Stack & Tools
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="90">
@@ -101,6 +106,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -115,13 +121,21 @@
 
 ---
 
+### 💡 Daily Wisdom
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+---
+
 ### 🤝 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/abhinav-kumar-jha-912426330" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="50" />
   </a>
+  <span style="margin: 0 20px;"></span>
   <a href="mailto:abhinavjha542@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="40" width="50" />
   </a>
 </p>
