@@ -96,7 +96,7 @@
       <br>Postman
     </td>
     <td align="center" width="90">
-      <img src="https://user-images.githubusercontent.com/146935696/232236848-3561338a-e522-4a00-b6f7-41483d951552.png" width="48" height="48" alt="N8N" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/N8n-logo.svg/1024px-N8n-logo.svg.png" width="48" height="48" alt="N8N" />
       <br>N8N
     </td>
   </tr>
@@ -118,6 +118,10 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/abhinav-kumar-jha-912426330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Abhinav4518/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="leetcode" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/abhinav-kumar-jha-912426330" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="mailto:abhinavjha542@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
+  </a>
 </p>
